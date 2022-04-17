@@ -10,7 +10,7 @@
                 <table>
                     <tbody>
                         <tr>
-                            <th>メッセージ</th>
+                            <th>タスク</th>
                             <td><c:out value="${task.content}" /></td>
                         </tr>
                         <tr>
